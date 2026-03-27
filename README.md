@@ -49,6 +49,6 @@ python scheduler.py      # run daily at 9 AM
 Saves a JSON file each run — `output_2026-03-27_Friday.json` — with the post, video prompt, inspirational snippet, and media source.
 
 ## output preview
-![agent run](<img width="1830" height="910" alt="Image" src="https://github.com/user-attachments/assets/81f693a4-6bba-4ca1-81d3-06bf514d1921" />
+(<img width="1830" height="910" alt="Image" src="https://github.com/user-attachments/assets/81f693a4-6bba-4ca1-81d3-06bf514d1921" />
 )
-![agent run](<img width="1674" height="614" alt="Image" src="https://github.com/user-attachments/assets/1d361670-7d27-4468-a043-2f6040f656c0" />)
+(<img width="1674" height="614" alt="Image" src="https://github.com/user-attachments/assets/1d361670-7d27-4468-a043-2f6040f656c0" />)
